@@ -1,4 +1,4 @@
 ## Docker hub
 ```
-neurowaifu/comfyui.worker.mediasuite
+neurowaifu/comfyui.worker.mediasuite:latest
 ```
